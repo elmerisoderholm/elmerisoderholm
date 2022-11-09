@@ -1,12 +1,15 @@
 <h1>Moi, mun nimi on Elmeri! <br/>
 
-<h2>👨🏻‍💻 Kyberturvallisuuden projektit:</h2>
+<h2>👨🏻‍💻 Kyberturvallisuuden kouluprojektit ja labrat:</h2>
 
 - <b>Hyökkäys ja puolustusmenetelmät</b>
-  - [Case study of ransomware attack to Costa Rica (Finnish) ](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Tiedonhakutehtävä ransomwarehyökkäyksestä Costa Rican hallitukseen]()
 
-
-
+- <b>Koventaminen</b>
+  - [Windows 10 Active Directory koventaminen, osuuteni labrassa oli kappale 2 kokonaisuudessaan](https://github.com/elmerisoderholm/Windows10ADKoventaminen/blob/main/TTC6050_Ryhm%C3%A43_Lab1.pdf)
+  
+- <b>Työn alla</b>
+  - [Windows 10 Active Directory koventaminen, osuuteni labrassa oli kappale 2 kokonaisuudessaan]
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
