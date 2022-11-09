@@ -3,7 +3,7 @@
 <h2>👨🏻‍💻 Kyberturvallisuuden kouluprojektit ja labrat:</h2>
 
 - <b>Hyökkäys ja puolustusmenetelmät</b>
-  - [Tiedonhakutehtävä ransomwarehyökkäyksestä Costa Rican hallitukseen]()
+  - [Tiedonhakutehtävä ransomwarehyökkäyksestä Costa Rican hallitukseen](https://github.com/elmerisoderholm/Casestudy_Ransomware_Costa_Rica/blob/main/AA3979_s%C3%B6derholm_elmeri.pdf)
 
 - <b>Koventaminen</b>
   - [Windows 10 Active Directory koventaminen, osuuteni labrassa oli kappale 2 kokonaisuudessaan](https://github.com/elmerisoderholm/Windows10ADKoventaminen/blob/main/TTC6050_Ryhm%C3%A43_Lab1.pdf)
