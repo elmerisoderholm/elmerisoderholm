@@ -7,8 +7,7 @@
 
 - <b>Koventaminen</b>
   - [Windows 10 Active Directory koventaminen, osuuteni labrassa oli kappale 2 kokonaisuudessaan](https://github.com/elmerisoderholm/Windows10ADKoventaminen/blob/main/TTC6050_Ryhm%C3%A43_Lab1.pdf)
-  - [Windows 11 käyttöjärjestelmän koventaminen, koko labrassa mukana, eniten tein manuaalista GPO kovennusta eli kappale 4]
-  (https://github.com/elmerisoderholm/Windows11Koventaminen/blob/main/TTC6050_Ryhm%C3%A43_Lab2.pdf)
+  - [Windows 11 käyttöjärjestelmän koventaminen, koko labrassa mukana, eniten tein manuaalista GPO kovennusta eli kappale 4](https://github.com/elmerisoderholm/Windows11Koventaminen/blob/main/TTC6050_Ryhm%C3%A43_Lab2.pdf)
   
 - <b>Tietoturvakontrollit</b>
   
