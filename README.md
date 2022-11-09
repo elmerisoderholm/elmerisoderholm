@@ -2,21 +2,27 @@
 
 <h2>👨🏻‍💻 Kyberturvallisuuden kouluprojektit ja labrat:</h2>
 
-- <b>Hyökkäys ja puolustusmenetelmät</b>
-  - [Tiedonhakutehtävä ransomwarehyökkäyksestä Costa Rican hallitukseen](https://github.com/elmerisoderholm/Casestudy_Ransomware_Costa_Rica/blob/main/AA3979_s%C3%B6derholm_elmeri.pdf)
-
 - <b>Koventaminen</b>
   - [Windows 10 Active Directory koventaminen, osuuteni labrassa oli kappale 2 kokonaisuudessaan](https://github.com/elmerisoderholm/Windows10ADKoventaminen/blob/main/TTC6050_Ryhm%C3%A43_Lab1.pdf)
   - [Windows 11 käyttöjärjestelmän koventaminen, koko labrassa mukana, eniten tein manuaalista GPO kovennusta eli kappale 4](https://github.com/elmerisoderholm/Windows11Koventaminen/blob/main/TTC6050_Ryhm%C3%A43_Lab2.pdf)
   
 - <b>Tietoturvakontrollit</b>
   
+
+- <b>Kyberturvallisuuden hallinta</b>
+  - [Omaisuudenhallinta syksyn aikana käytetystä VLE:stä (Työn alla)]()
+
+- <b>Hyökkäys ja puolustusmenetelmät</b>
+  - [Tiedonhakutehtävä ransomwarehyökkäyksestä Costa Rican hallitukseen](https://github.com/elmerisoderholm/Casestudy_Ransomware_Costa_Rica/blob/main/AA3979_s%C3%B6derholm_elmeri.pdf)
+
+
+  
   
 - <b>🔭 Työn alla</b>
-  - []
+  - [Omaisuudenhallinta syksyn aikana käytetystä VLE:stä]()
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ElmeriSoderholm | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 [linkedin]: https://www.linkedin.com/in/elmeri-s%C3%B6derholm-39b605203/
