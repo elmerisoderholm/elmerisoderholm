@@ -8,6 +8,7 @@
 - <b>Koventaminen</b>
   - [Windows 10 Active Directory koventaminen, osuuteni labrassa oli kappale 2 kokonaisuudessaan](https://github.com/elmerisoderholm/Windows10ADKoventaminen/blob/main/TTC6050_Ryhm%C3%A43_Lab1.pdf)
   - [Windows 11 käyttöjärjestelmän koventaminen, koko labrassa mukana, eniten tein manuaalista GPO kovennusta eli kappale 4](https://github.com/elmerisoderholm/Windows11Koventaminen/blob/main/TTC6050_Ryhm%C3%A43_Lab2.pdf)
+  - [Päivityksien hallintaa (WSUS)](https://github.com/elmerisoderholm/P-ivityksienHallinta/blob/main/TTC6050_Ryhm%C3%A43_lab3%20(1).pdf)
   
 - <b>Tietoturvakontrollit</b>
   - [PaloAlto palomuurin konfigurointia, GlobalProtectin käyttöönotto, SSH ja RDP yhteydet](https://github.com/elmerisoderholm/Palomuurin_konfigurointi/blob/main/TTC6010_Ryhma3_Lab1.pdf)
