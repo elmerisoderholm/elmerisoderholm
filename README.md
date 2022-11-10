@@ -2,12 +2,16 @@
 
 <h2>👨🏻‍💻 Kyberturvallisuuden kouluprojektit ja labrat:</h2>
 
+- <b>Kyberturvallisuushaasteet</b>
+  - [Mr.Robot -haaste, tutkimustyö](https://github.com/elmerisoderholm/Mr.Robot-haaste/blob/main/Tutkimusty%C3%B6_elmeri_s%C3%B6derholm.pdf)
+  
 - <b>Koventaminen</b>
   - [Windows 10 Active Directory koventaminen, osuuteni labrassa oli kappale 2 kokonaisuudessaan](https://github.com/elmerisoderholm/Windows10ADKoventaminen/blob/main/TTC6050_Ryhm%C3%A43_Lab1.pdf)
   - [Windows 11 käyttöjärjestelmän koventaminen, koko labrassa mukana, eniten tein manuaalista GPO kovennusta eli kappale 4](https://github.com/elmerisoderholm/Windows11Koventaminen/blob/main/TTC6050_Ryhm%C3%A43_Lab2.pdf)
   
 - <b>Tietoturvakontrollit</b>
-  
+  - [PaloAlto palomuurin konfigurointia, GlobalProtectin käyttöönotto, SSH ja RDP yhteydet](https://github.com/elmerisoderholm/Palomuurin_konfigurointi/blob/main/TTC6010_Ryhma3_Lab1.pdf)
+  - [Turvallisuusominaisuuksien tutkiminen PaloAltossa](https://github.com/elmerisoderholm/Palomuurin_turvallisuusominaisuudet/blob/main/TTC6010_Ryhma3_Lab3.pdf)
 
 - <b>Kyberturvallisuuden hallinta</b>
   - [Omaisuudenhallinta syksyn aikana käytetystä VLE:stä (Työn alla)]()
