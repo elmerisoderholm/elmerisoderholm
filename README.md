@@ -1,6 +1,7 @@
 <h1>Moi, mun nimi on Elmeri! <br/>
 
-<h2>👨🏻‍💻 Kyberturvallisuuden kouluprojektit ja labrat:</h2>
+<h2>✨ OMAT PROJEKTIT ✨</h2>
+<h2>👨🏻‍💻 Kyberturvallisuuden kouluprojektit ja labrat</h2>
 
 - <b>Kyberturvallisuushaasteet</b>
   - [Mr.Robot -haaste, tutkimustyö](https://github.com/elmerisoderholm/Mr.Robot-haaste/blob/main/Tutkimusty%C3%B6_elmeri_s%C3%B6derholm.pdf)
