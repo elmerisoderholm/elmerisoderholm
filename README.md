@@ -1,7 +1,9 @@
 <h1>Moi, mun nimi on Elmeri! <br/>
 
 <h2>✨ OMAT PROJEKTIT ✨</h2>
-  - [Haavoittuvuuksien hallintaa Nessus skannerilla](https://github.com/elmerisoderholm/Haavoittuvuuksien_hallinta_lab/blob/main/README.md)
+  
+  - [Haavoittuvuuksien hallintaa Nessus skannerilla](https://github.com/elmerisoderholm/Haavoittuvuuksien_hallinta_lab)
+  
 <h2>👨🏻‍💻 Kyberturvallisuuden kouluprojektit ja labrat</h2>
 
 - <b>Kyberturvallisuushaasteet</b>
