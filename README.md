@@ -19,8 +19,8 @@
   - [Turvallisuusominaisuuksien tutkiminen PaloAltossa](https://github.com/elmerisoderholm/Palomuurin_turvallisuusominaisuudet/blob/main/TTC6010_Ryhma3_Lab3.pdf)
 
 - <b>Kyberturvallisuuden hallinta</b>
-  - [Omaisuudenhallinta syksyn aikana käytetystä VLE:stä (Työn alla)]()
-
+  - [Omaisuuden hallinta syksyn aikana käytetystä VLE:stä](https://github.com/elmerisoderholm/Omaisuudenhallinta/blob/main/Omaisuudenhallinta_Ryhm%C3%A43.pdf)
+  - [Haavoittuvuuksine hallintaa Greenbonella](https://github.com/elmerisoderholm/Haavoittuvuuksien_hallinta/blob/main/Haavoittuvuuksien_hallinta.pdf)
 - <b>Hyökkäys ja puolustusmenetelmät</b>
   - [Tiedonhakutehtävä ransomwarehyökkäyksestä Costa Rican hallitukseen](https://github.com/elmerisoderholm/Casestudy_Ransomware_Costa_Rica/blob/main/AA3979_s%C3%B6derholm_elmeri.pdf)
 
@@ -28,7 +28,7 @@
   
   
 - <b>🔭 Työn alla</b>
-  - [Omaisuudenhallinta syksyn aikana käytetystä VLE:stä]()
+  - [Basic Home Lab Running Active Directory]()
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="ElmeriSoderholm | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
